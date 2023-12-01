@@ -1,0 +1,2 @@
+from .madliberator import Mabliberator
+Mabliberator
